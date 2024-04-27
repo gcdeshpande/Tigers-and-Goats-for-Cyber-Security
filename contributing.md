@@ -4,9 +4,9 @@
 
 ### Game Development:
 
-- [Rahul Kulkarni](https://github.com/username): Python developer
-- [Pranav Deshpande](https://github.com/username): Python Developer
-- [Omkar Deshpande](https://github.com/username): Python developer
+- [Rahul Kulkarni](https://github.com/rahul147852369): Python developer
+- [Pranav Deshpande](https://github.com/pranavdeshpande197): Python Developer
+- [Omkar Deshpande](https://github.com/Omkardeshpande08): Python developer
 
 ### Resources:
 
@@ -17,6 +17,3 @@
 
 - Eyesec Cybersecurity Solution Pvt Ltd, Belagavi
 
----
-
-Feel free to replace the placeholder usernames and URLs with actual ones. You can also add any additional contributors or resources as needed.
